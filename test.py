@@ -1,4 +1,4 @@
-temp = 25
+temp = 27
 print("Temperture is:") 
 print(temp)
 thermo = temp
