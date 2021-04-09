@@ -21,3 +21,7 @@ else:
     print("Temperture already set to:") 
     print(temp)
 
+print("Temperture now is:")
+print(temp)
+
+
